@@ -1,4 +1,3 @@
-Writer's website.
 
 Ian Pauken is so cool.
 
