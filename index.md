@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Writer's website.
 
-Maybe say a some things about yourself.
+Ian Pauken is so cool.
 
-Or maybe what you plan to blog about.
+Movies, art, philosophy and anything Ian is interested in writing about!.
