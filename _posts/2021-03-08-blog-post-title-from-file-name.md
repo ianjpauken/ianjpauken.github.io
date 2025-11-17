@@ -1,6 +1,6 @@
 ## The Mastermind: Review
 
-`The Mastermind: Review` 
+`The Mastermind(2025) - Directed and Written By Kelly Reichardt` 
 
 If the file does not start with a header, then the post title will be derived from the filename.
 
