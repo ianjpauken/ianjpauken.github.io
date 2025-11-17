@@ -1,8 +1,8 @@
 ## The Mastermind: Review
 
 `The Mastermind(2025) - Directed and Written By Kelly Reichardt` 
+![dwd](https://github.com/user-attachments/assets/018ecc5c-0696-44ff-a9fa-350f4d837865)
 
-If the file does not start with a header, then the post title will be derived from the filename.
 
 How hard could it be to pull off a heist? This is the question which pops off the story of Kelly Reichardt’s latest project ‘The Mastermind’. The curiosity sets in early as we are introduced to James Blaine Mooney and his family at the museum where the eventual art heist is destined to take place. But to start off the film, the opening scene is one that starts with action, a thrilling sequence of sly movements, helped by the coolness of Josh O’Connor’s slick performance. He steals a minifigure from the museum and with the help of some powerful jazz and an obsolete security, it feels like we have come across something as cinematic as a James Bond film. 
 
