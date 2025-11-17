@@ -9,27 +9,3 @@ How hard could it be to pull off a heist? This is the question which pops off th
 ‘The Mastermind’ is set sometime between the 60s and 70s, we never really know for sure exactly when until it’s too late in an ending which has its time period swallow James whole. The opening sequence is a great set-up for the immediate trust we have in our cinematic protagonists. The feeling that Jame has it all, he is a “Mastermind” of all possible hijinx. But, just like the people in James’ life, your trust in him eventually wavers. You follow through the fall throughs of James in hilarious fashion. But by the end, you feel as broken down and given up with the life of James and fall out of love with this drifter. James has failed too often and bad habits have been repeated too often. The life of this failed schemer seems allegorical to the life of a failed artist at times but it's better to feel it for yourself than for me to describe it. ‘The Mastermind’ is a film that I have kept mostly secret but if you want to experience a heist unlike any other and one of the best comedies of the year while simultaneously having your heart broken, please check out ‘The Mastermind.’
 
 
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
